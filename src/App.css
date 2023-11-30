@@ -1,5 +1,5 @@
 * {
-  font-family: "Josefin Sans", sans-serif;
+  font-family: Copperplate, Papyrus, fantasy;
   text-align: center;
 }
 
@@ -11,7 +11,9 @@ h1 {
 
 .butcher-pig-image {
   margin: 1rem;
-  width: 14rem;
+  width: 15rem;
+
+
 }
 
 /* ---BODY--- */
@@ -23,18 +25,18 @@ button {
 }
 
 .body-container {
-  padding-bottom: 3rem;
+  padding-bottom: 2.4rem;
 }
 
 .page-container {
-  min-height: 100vh;
+  min-height: 98vh;
   position: relative;
 }
 
 .input-section {
-  background-color: grey;
+  background-color: teal;
   border-radius: 0.5rem;
-  color: #fff;
+  color: #ffffff;
   margin: 1rem;
   padding: 1rem;
 }
